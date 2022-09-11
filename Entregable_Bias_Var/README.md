@@ -1,1 +1,1 @@
-
+En esta entrega lo que se hizo, fue escoger un modelo de los 2 implementados anteriormente, se escogió el de bosque aleatorios y se obtuvo la varianza y el sesgo, de dicho modelo. Se implementó una matriz de confusión para ir complementando las comparaciones. Al final se muestra la mejora que se obtuvo, esto, en base a los hiperparámetros encontrados.
