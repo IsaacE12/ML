@@ -4,12 +4,16 @@ En esta entrega se implementa un modelo de clasificación, es este caso el de bo
 
 ***Dataset 
 
-El dataset cuenta con 
+El dataset cuenta con 23 variables
 
 La variable objetivo a predecir es la de "RainTomorrow", la variable que nos da información acerca de si va a llover el siguiente día o no.
 
 
-***Librerias utilizadas 
+***Librerias utilizadas  
+
+Las librerías que se utilizaron fueron 
+
+
 
 
 ***Métricas de desempeño
