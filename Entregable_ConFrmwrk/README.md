@@ -4,7 +4,9 @@ En esta entrega se implementa un modelo de clasificación, es este caso el de bo
 
 ***Dataset 
 
-El dataset 
+El dataset cuenta con 
+
+La variable objetivo a predecir es la de "RainTomorrow", la variable que nos da información acerca de si va a llover el siguiente día o no.
 
 
 ***Librerias utilizadas 
