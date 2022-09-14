@@ -4,7 +4,7 @@ En esta entrega se implementa un modelo de clasificación, es este caso el de bo
 
 ***Dataset 
 
-El dataset cuenta con 23 variables
+El dataset cuenta con 23 variables, donde sus valores con categóricos completamente, esto para utilizar los modelos vistos en clase, los cuales, son de clasificación.
 
 La variable objetivo a predecir es la de "RainTomorrow", la variable que nos da información acerca de si va a llover el siguiente día o no.
 
