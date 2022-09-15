@@ -13,10 +13,11 @@ La variable objetivo a predecir es la de "RainTomorrow", la variable que nos da 
 
 Las librerías que se utilizaron fueron:
 
-- Matplotlib: Para generar gráficas y tener una mejor visualización de los datos. 
-- Scikit-learn: 
-- Pandas:  
-- NumPy: 
+- Matplotlib: Se usó generar gráficas y tener una mejor visualización de los datos. 
+- Scikit-learn: Se usó para la construcción de nuestro modelo de clasificación, realizar nuestras predicciones y obtener las métricas.
+- Pandas: Se usó para la manipulación de la estructura del dataset descrito anteriormente.
+- NumPy: Se usó para la manipulación de los datos, ya que, se hizo por medio de arreglos.
+- Seaborn: Se usó para la la visualización de datos estadísticos, en este caso, se ocupó para la matriz de confusión.
 
 
 
@@ -26,7 +27,10 @@ Las librerías que se utilizaron fueron:
 También se presentan métricas para medir el rendimiento del modelo.
 
 
-***Predicciones de prueba (entradas, valor esperado, valor obtenido), nombre del archivo a revisar)
+***Predicciones de prueba (entradas, valor esperado, valor obtenido), nombre del archivo a revisar) 
+
+
+
 
 
 
