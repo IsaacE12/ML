@@ -21,4 +21,10 @@ Las librerías que se utilizaron fueron
 También se presentan métricas para medir el rendimiento del modelo.
 
 
-***Predicciones de prueba
+***Predicciones de prueba 
+
+
+***Nombre del archivo a revisar 
+
+El nombre del archivo a revisar es el de "ml_framework(categóricas).py", el cual, al correrlo, ya tiene conexión al csv, llamado "weatherAUS.csv",que igual se encuentra en el repositorio.
+
