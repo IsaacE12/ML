@@ -6,22 +6,28 @@ En esta entrega se implementa un modelo de clasificación, es este caso el de bo
 
 El dataset cuenta con 23 variables, donde sus valores con categóricos completamente, esto para utilizar los modelos vistos en clase, los cuales, son de clasificación.
 
-La variable objetivo a predecir es la de "RainTomorrow", la variable que nos da información acerca de si va a llover el siguiente día o no.
+La variable objetivo a predecir es la de "RainTomorrow", la variable que nos da información acerca de si va a llover el siguiente día o no. Primeramente lo que se hizo en el código fue un filtrado de datos relevantes para la predicción de la variable objetivo, se hizo uso de la matriz de correlación para identificar el nivel de correlación entre las variables.
 
 
 ***Librerias utilizadas  
 
-Las librerías que se utilizaron fueron 
+Las librerías que se utilizaron fueron:
+
+- Matplotlib: Para generar gráficas y tener una mejor visualización de los datos. 
+- Scikit-learn: 
+- Pandas:  
+- NumPy: 
 
 
 
 
-***Métricas de desempeño
+***Métricas de desempeño (valor logrado sobre el subset de prueba)
 
 También se presentan métricas para medir el rendimiento del modelo.
 
 
-***Predicciones de prueba 
+***Predicciones de prueba (entradas, valor esperado, valor obtenido), nombre del archivo a revisar)
+
 
 
 ***Nombre del archivo a revisar 
