@@ -14,25 +14,25 @@ La variable objetivo a predecir es la de "RainTomorrow", la variable que nos da 
 Las librerías que se utilizaron fueron:
 
 - Matplotlib: Se usó generar gráficas y tener una mejor visualización de los datos. 
-- Scikit-learn: Se usó para la construcción de nuestro modelo de clasificación, realizar nuestras predicciones y obtener las métricas.
+- Scikit-learn: Se usó para la construcción de nuestro modelo de clasificación, realizar nuestras predicciones y obtener las métricas. También se uso para el Cross-Validation que se implementó.
 - Pandas: Se usó para la manipulación de la estructura del dataset descrito anteriormente.
 - NumPy: Se usó para la manipulación de los datos, ya que, se hizo por medio de arreglos.
 - Seaborn: Se usó para la la visualización de datos estadísticos, en este caso, se ocupó para la matriz de confusión.
 
 
-
-
 ***Métricas de desempeño (valor logrado sobre el subset de prueba)
 
-También se presentan métricas para medir el rendimiento del modelo.
+También se presentan métricas para medir el rendimiento del modelo. La precisión del modelo fue del 85% (Se acertaron 19363 de 22585 datos) y seguido de eso se realizó un cross-validation para validar.
 
 
-***Predicciones de prueba (entradas, valor esperado, valor obtenido), nombre del archivo a revisar) 
+***Predicciones de prueba (entradas, valor esperado, valor obtenido) 
+Fold:  1, Training/Test Distribución Dividida: [56179 16093], Precisión: 0.851
+Fold:  2, Training/Test Distribución Dividida: [56179 16093], Precisión: 0.851
+Fold:  3, Training/Test Distribución Dividida: [56179 16093], Precisión: 0.851
+Fold:  4, Training/Test Distribución Dividida: [56179 16093], Precisión: 0.853
+Fold:  5, Training/Test Distribución Dividida: [56180 16092], Precisión: 0.857 
 
-
-
-
-
+Precisión del Cross-Validation: 0.853 +/- 0.002
 
 ***Nombre del archivo a revisar 
 
