@@ -1,1 +1,1 @@
-
+En el presente .py, se programó una regresión logística sin hacer uso de librerías de machine learning, se basó en las clases dadas. Se llegó a una precisión de 69%, utilizando el dataset del titanic. Los csv están en el repositorio ya divididos para su uso.
